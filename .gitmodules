@@ -1,0 +1,8 @@
+[submodule "wsuhyrbidrocket/extern/pybind11"]
+	path = wsuhyrbidrocket/extern/pybind11
+	url = https://github.com/pybind/pybind11.git
+	branch = stable
+[submodule "wsuhybridrocket/extern/pybind11"]
+	path = wsuhybridrocket/extern/pybind11
+	url = https://github.com/pybind/pybind11.git
+	branch = stable
